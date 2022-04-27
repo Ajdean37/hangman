@@ -8,7 +8,7 @@ import PopUp from './Components/PopUp';
 import Notification from './Components/Notification';
 import {showNotification as show} from './Helpers/helpers'
 
-const words = ['application', 'programming', 'interface', 'wizard', 'family', 'construction', 'animals', 'children', 'birthday', 'holiday', 'wood', 'nails', 'annoying', 'beautiful', 'sunshine', 'laughter', 'handsome', 'smarty', 'vacation', 'travel'];
+const words = ['love', 'happy', 'charlie', 'loki', 'dad', 'mom', 'kaiden', 'makensie', 'cat', 'dog', 'hike', 'woods', 'rocks', 'camp', 'game', 'play', 'purple', 'blue', 'green', 'pink', 'sunny', 'rain'];
 
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
